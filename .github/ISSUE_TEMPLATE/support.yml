@@ -1,4 +1,4 @@
-name: Tilt Maze support request
+name: Marble Bloom support request
 description: Report a gameplay or technical problem without including personal information.
 title: "Support: "
 labels: ["support"]
@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve Tilt Maze. **Do not include a child's name, photo, location, school, email address, or other personal information.**
+        Thanks for helping improve Marble Bloom. **Do not include a child's name, photo, location, school, email address, or other personal information.**
   - type: input
     id: device
     attributes:
