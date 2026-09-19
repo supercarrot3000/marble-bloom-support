@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "enabled": false,
+  "enabled": true,
   "provider": "kidoz",
   "targeting": "contextual",
   "placement": "between-levels"
