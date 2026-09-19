@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "enabled": false,
+  "provider": "kidoz",
+  "targeting": "contextual",
+  "placement": "between-levels"
+}
